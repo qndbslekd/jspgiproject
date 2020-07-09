@@ -6,6 +6,6 @@
 	<title>Insert title here</title>
 </head>
 <body>
-HelloGIT
+HelloGIT 
 </body>
 </html>
